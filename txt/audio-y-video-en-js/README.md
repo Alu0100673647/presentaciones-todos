@@ -13,7 +13,6 @@ Utilizar codepen tiene la ventaja de que en una misma ventana puedes visualizar 
 # HTML
 
 * Código del reproductor de vídeo:
-![](./htmlc.png)
 
 # CSS
 
