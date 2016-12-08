@@ -12,6 +12,13 @@ Utilizar codepen tiene la ventaja de que en una misma ventana puedes visualizar 
 
 # HTML
 
+* Código del reproductor de vídeo:
+![](./htmlc.png)
+
 # CSS
+
+Para dar estilo a los botones, he añadido esta [dirección](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css) y [Bootstrap](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css)
+
+![](./urls.png)
 
 # JS
