@@ -14,10 +14,34 @@ Utilizar codepen tiene la ventaja de que en una misma ventana puedes visualizar 
 
 * Código del reproductor de vídeo:
 
+![](./h.png)
+
 # CSS
 
 Para dar estilo a los botones, he añadido esta [dirección](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css) y [Bootstrap](https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css)
 
 ![](./urls.png)
 
+* Código CSS
+
+![](./cssc.png)
+
 # JS
+
+* Código JS
+
+![](./js1.png)
+
+![](./js2.png)
+
+![](./js3.png)
+
+![](./js4.png)
+
+![](./js5.png)
+
+# El reproductor
+
+El reproductor tiene la zona (lcd-text) en donde se muestra el nombre del vídeo que está actualmente en reproducción. El propio vídeo que se está reproduciendose, los controles (anterior,play,pause, etc.) y la lista de reproducción.
+
+![](./reproductor.png)
