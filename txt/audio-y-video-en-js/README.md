@@ -45,3 +45,5 @@ Para dar estilo a los botones, he añadido esta [dirección](https://cdnjs.cloud
 El reproductor tiene la zona (lcd-text) en donde se muestra el nombre del vídeo que está actualmente en reproducción. El propio vídeo que se está reproduciendose, los controles (anterior,play,pause, etc.) y la lista de reproducción.
 
 ![](./reproductor.png)
+
+[El proyecto](http://codepen.io/cony/pen/ObpbrL)
